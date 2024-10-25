@@ -1,5 +1,5 @@
 <div class="Box-sc-g0xbh4-0 QkQOb js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto" _msttexthash="36647208" _msthash="281">Gorse Recommender 系统引擎</h1><a id="user-content-gorse-recommender-system-engine" class="anchor" aria-label="永久链接： Gorse Recommender System Engine" href="#gorse-recommender-system-engine" _mstaria-label="1296880" _msthash="282"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/gorse-io/gorse/blob/master/assets/gorse.png"><img width="160" src="/gorse-io/gorse/raw/master/assets/gorse.png" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/https://github.comgorse-io/gorse/blob/master/assets/gorse.png"><img width="160" src="https://github.com/gorse-io/gorse/raw/master/assets/gorse.png" style="max-width: 100%;"></a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/06f4bdb54bb6f07d2f62e1d29486d9c2cce5a16037da93ea1b19dd582aa883af/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f676f2d6d6f642f676f2d76657273696f6e2f7a68656e6768616f7a2f676f727365"><img src="https://camo.githubusercontent.com/06f4bdb54bb6f07d2f62e1d29486d9c2cce5a16037da93ea1b19dd582aa883af/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f676f2d6d6f642f676f2d76657273696f6e2f7a68656e6768616f7a2f676f727365" alt="" data-canonical-src="https://img.shields.io/github/go-mod/go-version/zhenghaoz/gorse" style="max-width: 100%;"></a>
 <a href="https://github.com/zhenghaoz/gorse/actions?query=workflow%3Abuild"><img src="https://github.com/zhenghaoz/gorse/workflows/build/badge.svg" alt="建" style="max-width: 100%;" _mstalt="61711" _msthash="283"></a>
 <a href="https://codecov.io/gh/gorse-io/gorse" rel="nofollow"><img src="https://camo.githubusercontent.com/fe4150e56cf69f3208d9d412ca720e6cdb95e2e308f1310b59e6cce9dc9c7e10/68747470733a2f2f636f6465636f762e696f2f67682f676f7273652d696f2f676f7273652f6272616e63682f6d61737465722f67726170682f62616467652e737667" alt="Codecov 公司" data-canonical-src="https://codecov.io/gh/gorse-io/gorse/branch/master/graph/badge.svg" style="max-width: 100%;" _mstalt="96798" _msthash="284"></a>
@@ -23,27 +23,13 @@
 <li _msttexthash="23390705" _msthash="299">Linux/macOS的：</li>
 </ul>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>curl -fsSL https://gorse.io/playground <span class="pl-k">|</span> bash</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="curl -fsSL https://gorse.io/playground | bash" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+   
   </div></div>
 <ul dir="auto">
 <li _msttexthash="19941662" _msthash="300">码头工人：</li>
 </ul>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>docker run -p 8088:8088 zhenghaoz/gorse-in-one --playground</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="docker run -p 8088:8088 zhenghaoz/gorse-in-one --playground" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto"><font _mstmutation="1" _msttexthash="213844501" _msthash="301">playground 模式将从 <a href="https://gitrec.gorse.io/" rel="nofollow" _mstmutation="1" _istranslated="1">GitRec</a> 下载数据并将其导入 Gorse。控制面板位于 。</font><code>http://localhost:8088</code></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/gorse-io/gorse/blob/master/assets/dashboard.jpeg"><img width="720" src="/gorse-io/gorse/raw/master/assets/dashboard.jpeg" style="max-width: 100%;"></a></p>
@@ -61,37 +47,11 @@
 curl -X POST http://127.0.0.1:8088/api/feedback \
    -H <span class="pl-s"><span class="pl-pds">'</span>Content-Type: application/json<span class="pl-pds">'</span></span> \
    -d <span class="pl-s"><span class="pl-pds">"</span><span class="pl-smi">$JSON</span><span class="pl-pds">"</span></span></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="read -d '' JSON << EOF
-[
-    { \&quot;FeedbackType\&quot;: \&quot;star\&quot;, \&quot;UserId\&quot;: \&quot;bob\&quot;, \&quot;ItemId\&quot;: \&quot;vuejs:vue\&quot;, \&quot;Timestamp\&quot;: \&quot;2022-02-24\&quot; },
-    { \&quot;FeedbackType\&quot;: \&quot;star\&quot;, \&quot;UserId\&quot;: \&quot;bob\&quot;, \&quot;ItemId\&quot;: \&quot;d3:d3\&quot;, \&quot;Timestamp\&quot;: \&quot;2022-02-25\&quot; },
-    { \&quot;FeedbackType\&quot;: \&quot;star\&quot;, \&quot;UserId\&quot;: \&quot;bob\&quot;, \&quot;ItemId\&quot;: \&quot;dogfalo:materialize\&quot;, \&quot;Timestamp\&quot;: \&quot;2022-02-26\&quot; },
-    { \&quot;FeedbackType\&quot;: \&quot;star\&quot;, \&quot;UserId\&quot;: \&quot;bob\&quot;, \&quot;ItemId\&quot;: \&quot;mozilla:pdf.js\&quot;, \&quot;Timestamp\&quot;: \&quot;2022-02-27\&quot; },
-    { \&quot;FeedbackType\&quot;: \&quot;star\&quot;, \&quot;UserId\&quot;: \&quot;bob\&quot;, \&quot;ItemId\&quot;: \&quot;moment:moment\&quot;, \&quot;Timestamp\&quot;: \&quot;2022-02-28\&quot; }
-]
-EOF
-
-curl -X POST http://127.0.0.1:8088/api/feedback \
-   -H 'Content-Type: application/json' \
-   -d &quot;$JSON&quot;" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+    
   </div></div>
 <p dir="auto" _msttexthash="272579541" _msthash="303">然后，从 Gorse 获取 10 件推荐物品。我们可以发现 Bob 推荐使用与 frontend 相关的仓库。</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre>curl http://127.0.0.1:8088/api/recommend/bob<span class="pl-k">?</span>n=10</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="curl http://127.0.0.1:8088/api/recommend/bob?n=10" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+   
   </div></div>
 <details>
 <summary _msttexthash="21144175" _msthash="304">输出示例：</summary>
@@ -107,25 +67,7 @@ curl -X POST http://127.0.0.1:8088/api/feedback \
  <span class="pl-s"><span class="pl-pds">"</span>1wheel:d3-starterkit<span class="pl-pds">"</span></span>,
  <span class="pl-s"><span class="pl-pds">"</span>acdlite:redux-promise<span class="pl-pds">"</span></span>
 ]</pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="[
- &quot;mbostock:d3&quot;,
- &quot;nt1m:material-framework&quot;,
- &quot;mdbootstrap:vue-bootstrap-with-material-design&quot;,
- &quot;justice47:f2-vue&quot;,
- &quot;10clouds:cyclejs-cookie&quot;,
- &quot;academicpages:academicpages.github.io&quot;,
- &quot;accenture:alexia&quot;,
- &quot;addyosmani:tmi&quot;,
- &quot;1wheel:d3-starterkit&quot;,
- &quot;acdlite:redux-promise&quot;
-]" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+   
   </div></div>
 </details>
 <blockquote>
