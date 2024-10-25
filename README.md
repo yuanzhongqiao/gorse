@@ -32,7 +32,7 @@
     
   </div></div>
 <p dir="auto"><font _mstmutation="1" _msttexthash="213844501" _msthash="301">playground 模式将从 <a href="https://gitrec.gorse.io/" rel="nofollow" _mstmutation="1" _istranslated="1">GitRec</a> 下载数据并将其导入 Gorse。控制面板位于 。</font><code>http://localhost:8088</code></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/gorse-io/gorse/blob/master/assets/dashboard.jpeg"><img width="720" src="/gorse-io/gorse/raw/master/assets/dashboard.jpeg" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/gorse-io/gorse/blob/master/assets/dashboard.jpeg"><img width="720" src="https://github.com/gorse-io/gorse/raw/master/assets/dashboard.jpeg" style="max-width: 100%;"></a></p>
 <p dir="auto" _msttexthash="1483505907" _msthash="302">在 “Tasks” 页面上完成 “Find neighbors of items” 任务后，尝试在 Gorse 中插入多个反馈。假设 Bob 是一名前端开发人员，他在 GitHub 中为多个前端存储库加了星标。我们将他的星级反馈插入到 Gorse 中。</p>
 <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-c1">read</span> -d <span class="pl-s"><span class="pl-pds">'</span><span class="pl-pds">'</span></span> JSON <span class="pl-s"><span class="pl-k">&lt;&lt;</span> <span class="pl-k">EOF</span></span>
 <span class="pl-s">[</span>
